@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "Discover"
+version = "0.0.1"
+description = "Discover Addon"
+authors = ["AaronLi. <lilong999000@gmail.com>"]
+license = "MIT License"
+homepage = ""
+documentation = ""
+repository = "https://github.com/aaronmack/ayon-discover"
+readme = "README.md"
